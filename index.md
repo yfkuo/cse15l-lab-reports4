@@ -12,7 +12,7 @@
 
 
 ## 5. Clone your fork of the repository from your Github account (using the SSH URL):
-- After the previous step, key press `<up>` arrow for 8 times to find SSH URL `git@github.com:yfkuo/lab7.git` command from the history, then press `<enter>`:
+- After the previous step, key press `<up>` arrow for 8 times to find SSH URL `git clone git@github.com:yfkuo/lab7.git` command from the history, then press `<enter>`:
 
 ![Image](step5.png)
 
