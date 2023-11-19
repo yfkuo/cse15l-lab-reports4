@@ -21,6 +21,7 @@
 - Next, key press `<down>` arrow for 1 times to find `cd lab7` command from the history, then press `<enter>` to change current working directory to `lab7`.
 - Next, then key press `<down>` arrow for 1 times to find `bash test.sh` command from the history, then press `<enter>` to run the tests.
 - Image demonstrates the tests failures:
+
 ![Image](step6.png)
 
 
@@ -59,6 +60,7 @@
 
 ## 8. Run the tests, demonstrating that they now succeed:
 - Next, key press `<down>` arrow for 1 times to find `bash test.sh` command from the history, then press `<enter>` to run the tests again.
+
 ![Image](step8.png)
 
 
@@ -70,6 +72,7 @@
 ![Image](step9.1.png)
 
 - Now, this image demonstrate the change has sucessfully made to my Github account:
+
 ![Image](step9.2.png)
 
 
