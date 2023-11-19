@@ -20,7 +20,7 @@
 ## 6. Run the tests, demonstrating that they fail:
 - Next, key press `<down>` arrow for 1 times to find `cd lab7` command from the history, then press `<enter>` to change current working directory to `lab7`.
 - Next, then key press `<down>` arrow for 1 times to find `bash test.sh` command from the history, then press `<enter>` to run the tests.
-- Image demonstrates failed tests:
+- Image demonstrates the tests failures:
 ![Image](step6.png)
 
 
@@ -31,13 +31,13 @@
 ![Image](step7.1.png)
 
 
-- Next, to find `index1` in `ListExamples.java`: Type `/index1`, then press `<enter>`.
+- Next, to find `index1` in `ListExamples.java`: Type `/index1`, then press `<enter>` to select the first found `/index1` in the java file.
 
 ![Image](step7.2.png)
 
 
 - Next, press `<n>` for 9 times to get to the desired `index1` that we want to change to `index2`.
-- The lower right corner will show the number of the line that you are currently at, which is line 44.
+- Note that the lower right corner will show the number of the line that you are currently at, which is line 44.
 
 ![Image](step7.3.png)
 
@@ -58,7 +58,7 @@
 
 
 ## 8. Run the tests, demonstrating that they now succeed:
-- Next, key press `<down>` arrow for 1 times to find `bash test.sh` command from the history, then press `<enter>` to run the tests.
+- Next, key press `<down>` arrow for 1 times to find `bash test.sh` command from the history, then press `<enter>` to run the tests again.
 ![Image](step8.png)
 
 
