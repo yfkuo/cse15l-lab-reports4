@@ -6,7 +6,7 @@
 
 
 ## 4. Log into ieng6:
-- key press `<up>` arrow for 2 times to find `ssh cs15lfa23nn@ieng6.ucsd.edu` command from history, then press `<enter>`:
+- First, key press `<up>` arrow for 2 times to find `ssh cs15lfa23nn@ieng6.ucsd.edu` command from history, then press `<enter>`:
 
 ![Image](step4.png)
 
