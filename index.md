@@ -71,7 +71,7 @@
 
 ![Image](step9.1.png)
 
-- Now, this image demonstrate the change has sucessfully made to my Github account:
+- Now, this image demonstrates the change has sucessfully made to my Github account:
 
 ![Image](step9.2.png)
 
