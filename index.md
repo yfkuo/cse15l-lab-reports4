@@ -1,7 +1,7 @@
 # Lab Report 4 - Vim (Week 7)
 1. Setup: Delete any existing forks of the repository you have on your account
 2. Setup: Fork the repository
-![Image](originfork.png)
+![Image](originfork.png = 50x50)
 3. The real deal: Start the timer!
 
 ## 4. Log into ieng6, type:
@@ -26,7 +26,7 @@
 - Then type `<:44s/index1/index2>` to select `index1` on line 44.
 ![Image](step7.4.png)
 
-- Then press `<enter>` to change `index1` on line 44 to `index2`.
+- Then press `<enter>` after typing `<:44s/index1/index2>` to change `index1` on line 44 to `index2`.
 ![Image](step7.5.png)
 
 - To save the changes, type `<:wq!>` then press `<enter>`.
