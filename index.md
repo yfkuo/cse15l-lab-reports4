@@ -1,10 +1,4 @@
 # Lab Report 4 - Vim (Week 7)
-
-- This was what the fork looked like before I committed the changes to my Github account:
-
-![Image](originfork.png)
-
-
 ## 4. Log into ieng6:
 - First, key press `<up>` arrow for 2 times to find `ssh cs15lfa23nn@ieng6.ucsd.edu` command from the history, then press `<enter>`:
 
@@ -74,6 +68,10 @@
 - Now, this image demonstrates the change has sucessfully made to my Github account:
 
 ![Image](step9.2.png)
+
+- This was what the fork looked like before I committed the changes to my Github account:
+
+![Image](originfork.png)
 
 
 ## The URL for this lab report:
