@@ -1,6 +1,6 @@
 # Lab Report 4 - Vim (Week 7)
 
-- This is what the original fork looks like on my Github accout:
+- This was what the fork looked like before I committed the changes to my Github account:
 
 ![Image](originfork.png)
 
