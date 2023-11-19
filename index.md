@@ -3,26 +3,39 @@
 2. Setup: Fork the repository
 ![Image](originfork.png)
 3. The real deal: Start the timer!
-4. Log into ieng6
+
+## 4. Log into ieng6, type:
 ![Image](step4.png)
-5. Clone your fork of the repository from your Github account (using the SSH URL)
+
+## 5. Clone your fork of the repository from your Github account (using the SSH URL), type:
 ![Image](step5.png)
-6. Run the tests, demonstrating that they fail
+
+## 6. Run the tests, demonstrating that they fail:
 ![Image](step6.png)
-7. Edit the code file to fix the failing test
+
+## 7. Edit the code file to fix the failing test:
+- Type `vim ListExamples.java` to edit `ListExamples.java`.
 ![Image](step7.1.png)
-- Press: </index1> <enter>
+
+- To find `index1` in `ListExamples.java`: Press `</index1>` `<enter>`.
 ![Image](step7.2.png)
-<n> <n> <n> 9 times
+
+- Press `<n>` for 9 times to get to the `index1` that we want to change to `index2`.
 ![Image](step7.3.png)
+
+- Then type `<:44s/index1/index2>` to select `index1` on line 44.
 ![Image](step7.4.png)
-- Press: <:44s/index1/index2> <enter>
+
+- Then press `<enter>` to change `index1` on line 44 to `index2`.
 ![Image](step7.5.png)
-- Press: <:wq!><enter>
+
+- To save the changes, type `<:wq!>` then press `<enter>`.
 ![Image](step7.6.png)
-8. Run the tests, demonstrating that they now succeed
+
+## 8. Run the tests, demonstrating that they now succeed:
 ![Image](step8.png)
-9. Commit and push the resulting change to your Github account (you can pick any commit message!)
+
+## 9. Commit and push the resulting change to your Github account, type in the following commands:
 ![Image](step9.1.png)
 ![Image](step9.2.png)
 
